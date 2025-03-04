@@ -2,7 +2,7 @@
 最新官网地址：[优信云机场官网](https://jcz.affxc.com/youxincloud/)
 
 ## 优信云机场怎么样？
-优信云机场，使用安全高速Trojan协议抗封锁能力强，全部节点线路采用隧道中转优化及IPLC高速专线，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件，
+优信云机场，使用安全高速Trojan协议抗封锁能力强，全部节点线路采用隧道中转优化及IPLC高速专线，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
 
 ## 优信云机场优惠码
 优信云机场优惠码：VPNOOL
